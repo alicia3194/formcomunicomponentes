@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+label {
+    margin-bottom: 5px;
+}
